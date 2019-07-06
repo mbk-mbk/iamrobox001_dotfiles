@@ -1,0 +1,6 @@
+[user]
+	email = iamrobox@vfemail.net
+	name = Iamaro Bot
+
+[core]
+	editor = "vim"

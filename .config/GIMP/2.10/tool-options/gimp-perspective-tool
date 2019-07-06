@@ -1,0 +1,6 @@
+# GIMP gimp-perspective-tool options
+
+(clip crop)
+(grid-type golden)
+
+# end of gimp-perspective-tool options

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   version="1.1"
+   viewBox="0 0 384 384"
+   id="svg26"
+   sodipodi:docname="gnome-bluetooth.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata30">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="707"
+     id="namedview28"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="27.118644"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg26" />
+  <defs
+     id="defs14">
+    <clipPath
+       id="clipPath4">
+      <rect
+         width="384"
+         height="384"
+         id="rect2" />
+    </clipPath>
+    <clipPath
+       id="clipPath8">
+      <rect
+         width="384"
+         height="384"
+         id="rect6" />
+    </clipPath>
+    <clipPath
+       id="clipPath12">
+      <rect
+         width="384"
+         height="384"
+         id="rect10" />
+    </clipPath>
+  </defs>
+  <path
+     d="m192 23.25c93.199 0 168.75 75.551 168.75 168.75 0 93.199-75.551 168.75-168.75 168.75-93.199 0-168.75-75.551-168.75-168.75 0-93.199 75.551-168.75 168.75-168.75z"
+     fill="#4aaee6"
+     fill-rule="evenodd"
+     id="path16"
+     style="fill:#0058d4;fill-opacity:1" />
+  <path
+     d="m145.59 163.79 34.797 35.188-34.797 35.187 11.066 11.156 28.93-28.613v67.168l52.816-49.801-32.02-35.098 31.934-35.047-52.445-48.805-0.24609 66.852-28.93-29.305zm55.93-15.758 16.039 15.27-16.039 19.785zm0 70.207 16.078 16.414-16.043 15.273z"
+     fill="#000204"
+     opacity=".3"
+     id="path18" />
+  <path
+     d="m145.59 156.29 34.797 35.188-34.797 35.188 11.066 11.156 28.93-28.613v67.168l52.816-49.801-32.02-35.098 31.934-35.047-52.445-48.805-0.24609 66.852-28.93-29.305zm55.93-15.758 16.039 15.27-16.039 19.785zm0 70.207 16.078 16.414-16.043 15.273z"
+     fill="#fff"
+     id="path20" />
+  <path
+     transform="scale(.75)"
+     d="m31.064 251c-0.036282 1.6632-0.064453 3.3281-0.064453 5 0 124.27 100.73 225 225 225 124.27 0 225-100.73 225-225 0-1.6719-0.02817-3.3368-0.06445-5-2.6604 121.96-102.34 220-224.94 220-122.59 0-222.28-98.045-224.94-220z"
+     fill-rule="evenodd"
+     opacity=".3"
+     stroke-width="1.3333"
+     id="path22" />
+  <path
+     transform="scale(.75)"
+     d="m256 31c-124.27 0-225 100.73-225 225 0 1.6719 0.028171 3.3368 0.064453 5 2.6604-121.96 102.34-220 224.94-220 122.59 0 222.28 98.045 224.94 220 0.03628-1.6632 0.06445-3.3281 0.06445-5 0-124.27-100.73-225-225-225z"
+     fill="#fff"
+     fill-rule="evenodd"
+     opacity=".3"
+     stroke-width="1.3333"
+     id="path24" />
+</svg>

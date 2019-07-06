@@ -1,0 +1,31 @@
+*.font: xft:Fira Code:pixelsize=12,\
+	xft:Noto Sans Mono:pixelsize=12,\
+	xft:custamoon pixelsize=12,\
+	xft:Overpass Mono:pixelsize=12,\
+	xft:Font Awesome 5:pixelsixe=12,\
+	xft:Ubuntu Mono:pixelsixe=12
+
+Xft.dpi:	96
+Xft.antialias:	true
+Xft.autohint:	1
+Xft.hinting:	1
+Xft.hintstyle:	hintslight
+Xft.lcdfilter:	lcdlight
+Xft.rgba:	rgb
+
+
+rofi.font:			Noto Sans 10
+
+
+URxvt*termName:			rxvt-256color
+URxvt*depth:                    32
+URxvt*lineSpace:                1
+URxvt.letterSpace:              -1
+URxvt.iso14755:                 false
+URxvt.iso14755_52:              false
+URxvt.scrollBar:                false
+URxvt*loginShell:               true
+URxvt.internalBorder:           10
+URxvt.perl-ext:	 		default,matcher
+URxvt.matcher.button: 		1
+

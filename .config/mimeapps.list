@@ -1,0 +1,13 @@
+[Added Associations]
+application/gzip=xarchiver.desktop;
+text/plain=code-oss.desktop;
+image/jpeg=feh.desktop;org.kde.gwenview.desktop;
+application/zip=xarchiver.desktop;
+application/pdf=org.gnome.Evince.desktop;
+image/png=feh.desktop;org.kde.gwenview.desktop;
+text/x-matlab=code-oss.desktop;
+application/x-xz-compressed-tar=xarchiver.desktop;
+application/x-7z-compressed=xarchiver.desktop;
+application/x-shellscript=userapp-"sh"-ZJZ53Z.desktop;code-oss.desktop;
+image/webp=org.kde.gwenview.desktop;
+image/gif=vlc.desktop;
