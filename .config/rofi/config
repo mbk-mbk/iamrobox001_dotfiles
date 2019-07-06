@@ -1,0 +1,11 @@
+
+rofi.modi:		window,run,ssh
+rofi.font:		Noto Sans 10
+rofi.width:		30
+rofi.lines:		5
+rofi.theme: 		~/.cache/wal/colors-rofi-dark.rasi
+rofi.terminal:		rofi-sensible-terminal
+rofi.run-command:	{cmd}
+rofi.icon-theme:	papirus-icon-theme
+rofi.show-icons:	true
+rofi.disable-history: false

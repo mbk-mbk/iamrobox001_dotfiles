@@ -2,7 +2,7 @@
 
 REPO=$HOME/dotfiles
 DIRECTORIES=(.config .local/bin .themes .icons walls)
-CONFIGDIRS=(i3 bspwm sxhkd polybar vis compton ranger)
+CONFIGDIRS=(i3 bspwm sxhkd polybar vis compton ranger rofi)
 FILES=(.bash_profile .bashrc .xinitrc .Xresources .xbindkeysrc)
 
 for dir in ${DIRECTORIES[@]}
