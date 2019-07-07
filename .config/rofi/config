@@ -1,5 +1,5 @@
 
-rofi.modi:		window,run,ssh
+rofi.modi:		window,run,ssh,drun
 rofi.font:		Noto Sans 10
 rofi.width:		30
 rofi.lines:		5

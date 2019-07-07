@@ -3,6 +3,12 @@
 #
 
 #
+# invert colors
+#
+super + i
+	xcalib -invert -alter
+
+#
 # launchers
 #
 

@@ -17,10 +17,10 @@ do
                 if [ ! -d $REPO/$dir/$subdir ]; then
                     mkdir --parents $REPO/$dir/$subdir
                 fi
-                cp -r $HOME/$dir/$subdir/* $REPO/$dir/$subdir
+                cp -ur $HOME/$dir/$subdir/* $REPO/$dir/$subdir
             done
         else
-            cp -r $HOME/$dir/* $REPO/$dir
+            cp -ur $HOME/$dir/* $REPO/$dir
         fi
     else
         echo " $dir directory does not exist!"
@@ -30,7 +30,7 @@ done
 for files in ${FILES[@]}
 do
     if [ -f $HOME/$files ]; then
-        cp $HOME/$files $REPO
+        cp -u $HOME/$files $REPO
     else
         echo "$files does not exist!"
     fi
