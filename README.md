@@ -14,8 +14,9 @@ Dotfiles is a repo for easy retrival of configs of various programs under Arch L
  In a temporary directory execute these commands:
  ```
 1. git clone https://github.com/iamarobox001/dotfiles.git
+or git clone https://gitlab.com/iamrobox001/dotfiles.git
 2. cd dotfiles
-3. cp -r * ~/
+3. cp -ur * $HOME
  ```
  Or copy individual files as needed.
  
